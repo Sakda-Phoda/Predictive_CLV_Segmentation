@@ -23,3 +23,9 @@ This project applies machine learning and probabilistic models to analyze custom
 
 ## 📂 Data Source
 [Chocolate Sales Dataset (2023-2024) on Kaggle](https://www.kaggle.com/datasets/ssssws/chocolate-sales-dataset-2023-2024)
+
+<img width="1138" height="684" alt="image" src="https://github.com/user-attachments/assets/4f89f6b3-bfe7-4cc0-aae5-33922bf3bcf5" />
+<img width="694" height="679" alt="image" src="https://github.com/user-attachments/assets/9f73f1a9-3c29-4894-ad09-d8d635b218ab" />
+<img width="2519" height="590" alt="image" src="https://github.com/user-attachments/assets/d486a72d-890b-4a4e-a3b7-16d669218d37" />
+
+
